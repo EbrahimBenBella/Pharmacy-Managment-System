@@ -1,6 +1,6 @@
 # Pharmacy-Managment-System
 
-A comprehensive Java-based Pharmacy Management System developed for ASU Pharmacy. This system provides a user-friendly interface for managing pharmacy operations including sales, inventory, and equipment rental.
+A comprehensive Java-based Pharmacy Management System developed. This system provides a user-friendly interface for managing pharmacy operations including sales, inventory, and equipment rental.
 
 ## Features
 
