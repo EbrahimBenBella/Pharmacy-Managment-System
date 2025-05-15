@@ -105,9 +105,7 @@ java -cp src/main/java com.mycompany.pharmacymanagment.App
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
@@ -115,8 +113,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Special thanks to the development team
 - Inspired by real-world pharmacy management needs
 
-## Contact
 
-For any queries or support, please contact:
-- Email: your.email@example.com
-- Project Link: https://github.com/yourusername/pharmacy-management
